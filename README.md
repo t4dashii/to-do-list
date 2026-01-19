@@ -38,7 +38,7 @@ mini-projeto-js/
 ├── package.json
 └── README.md
 
-<strong>Como Executar o Projeto</strong>
+## 🚀 Como Executar o Projeto
 
 Clone o repositório:
 
